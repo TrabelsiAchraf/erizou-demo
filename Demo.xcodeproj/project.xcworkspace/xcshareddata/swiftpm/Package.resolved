@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "erizou",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TrabelsiAchraf/erizou",
+      "state" : {
+        "revision" : "72df220c307a2290ba75c4b69a5b1ffacb0c86c1",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
